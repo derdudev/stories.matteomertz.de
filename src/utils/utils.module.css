@@ -1,0 +1,11 @@
+.link {
+    color: #000;
+}
+
+.link:visited{
+    color: #000;
+}
+
+.link-non-underlined{
+    text-decoration: none;
+}

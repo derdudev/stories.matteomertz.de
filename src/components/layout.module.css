@@ -1,0 +1,20 @@
+.websiteTitle{
+    color: #000;
+    text-decoration: none;
+}
+.websiteTitle:visited{
+    color: #000;
+}
+
+.container{
+    max-width: 615px;
+}
+
+.main {
+    padding: .5rem 1rem;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}

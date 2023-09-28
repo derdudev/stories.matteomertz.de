@@ -1,0 +1,8 @@
+---
+title: "Der Lochhocker erster Teil"
+date: "2023-29-09"
+---
+
+Erst als er bereits eine ganze Weile in seinem Loch gehockt hatte, begann er sich zu fragen wie er ursprünglich in seiner Situation gelandet war. Als er in seiner alltäglichen Unentschlossenheit hin und her spaziert war, nach außen sollte es ein stolzieren gewesen sein, war das Laub unter seinen Füßen weggebrochen. Und das ganz gleich dessen, dass er sich in Sicherheit des Kopfsteinpflasters gewogen hatte. Fläschlicherweise. Nur war er sich nicht einmal mehr sicher, ob draußen über dem Rand des Loches die alte Welt nicht schon einer gewichen war, in die er nicht gehören sollte. Vielleicht war es besser hier unten zu bleiben. Hätte er zuvor Anstrengungen in die gegenteilige Richtung unternehmen sollen? Dafür war er nun zu spät. Dafür schien der Rand zu weit entfernt. Wie frei er sich vorhin - wann immer das gewesen sein sollte - gefühlt hatte, so befangen schien das neuartige Hindernis zu sein. Allerdings hockte er nun eine solch lange Zeit in seinem Loch, dass dem Hindernis beinahe all seine Neuartigkeit gewichen war. Hinzu kam, dass bereits zu Beginn der Rand eine gewisse Vertrautheit in ihm geweckt hatte. Nun erinnerte er sich auch wage daran, dass es der Rand gewesen war, der ihn fest davon überzeugt hatte, keine Anstrengungen im Sinne seiner Befreiung zu unternehmen.
+
+Am nächsten Morgen schlugen die Köter an. Eine Leiche war im Stadtgraben gefunden worden. Noch während sich die Stadt fragte, warum der Mann nicht einfach aufgestanden und aus dem Graben gekrochen war, schlich sich klammheimlich ein Gefühl von Ekel und Vertrautheit ein. Es sollte nicht das letzte Mal gewesen sein. Der Frühling war schließlich erst vor einigen Tagen angebrochen. 
