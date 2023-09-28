@@ -23,7 +23,7 @@ export default function Home({ allStoriesData }) {
                 es kommt in den unterwartesten Momenten, dann fliegt ein Gedanke ein, mit dem einzigen Zweck, wieder zu verschwinden. <i>Also halte ich ihn fest.</i>
             </p>
             <p>
-                hier schreibe ich von denjenigen, bei denen mir das Festhalten gelungen ist:
+                hier schreibe ich von denjenigen, die sich haben festhalten lassen:
             </p>
             <StoriesList allStoriesData={allStoriesData}/>
         </Layout>
